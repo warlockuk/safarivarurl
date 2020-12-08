@@ -1,0 +1,21 @@
+html, body {
+    margin:0;
+    border:0;
+    padding:0;
+    width:100%;
+    height:100%;
+}
+
+
+.box {
+    background-image:var(--alternatebackground, url(../img/background.jpg));
+    width:100%;
+    height:100%;
+}
+
+.content {
+    width:50%;
+    height:50%;
+    background-color:white;
+    color:black;
+}
